@@ -23,7 +23,7 @@ To enable this camera in your installation, add the following to your `configura
 # Example configuration.yaml entry
 camera:
   - platform: local_file
-    file_path: /tmp/image.jpg
+    file_path: tmp/image.jpg
 ```
 
 Configuration variables:
